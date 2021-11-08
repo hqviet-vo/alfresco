@@ -1,16 +1,15 @@
-{
-  "resident": [
-    {
-      "id": 1,
-      "name": "Rob Jason"
-    },
-    {
-      "id": 2,
-      "name": "Viet Vo"
-    },
-    {
-      "id": 3,
-      "name": "Robbin"
-    }
-  ]
-}
+[
+  {
+    "id": 1,
+    "name": "Rob Jason"
+  },
+  {
+    "id": 2,
+    "name": "Viet Vo"
+  },
+  {
+    "id": 3,
+    "name": "Robbin"
+  }
+]
+
