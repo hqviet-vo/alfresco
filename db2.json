@@ -1,0 +1,93 @@
+{
+    "list": {
+        "pagination": {
+            "count": 4,
+            "hasMoreItems": false,
+            "totalItems": 4,
+            "skipCount": 0,
+            "maxItems": 100
+        },
+        "entries": [
+            {
+                "entry": {
+                    "createdAt": "2022-01-24T00:35:01.026+0000",
+                    "isFolder": true,
+                    "isFile": false,
+                    "createdByUser": {
+                        "id": "admin",
+                        "displayName": "Administrator"
+                    },
+                    "modifiedAt": "2022-01-24T00:38:44.530+0000",
+                    "modifiedByUser": {
+                        "id": "admin",
+                        "displayName": "Administrator"
+                    },
+                    "name": "Bob M",
+                    "id": "db315647-b6a0-4f1b-b003-480d7e586c3e",
+                    "nodeType": "grandCedarModel:resident",
+                    "parentId": "c54cc93a-3d8e-4503-9179-d1041e55b775"
+                }
+            },
+            {
+                "entry": {
+                    "createdAt": "2022-01-24T00:40:02.886+0000",
+                    "isFolder": true,
+                    "isFile": false,
+                    "createdByUser": {
+                        "id": "admin",
+                        "displayName": "Administrator"
+                    },
+                    "modifiedAt": "2022-01-24T00:41:00.859+0000",
+                    "modifiedByUser": {
+                        "id": "admin",
+                        "displayName": "Administrator"
+                    },
+                    "name": "Gary Frye",
+                    "id": "ac06a3ab-0d9d-42d6-94c9-452da4411bfb",
+                    "nodeType": "grandCedarModel:resident",
+                    "parentId": "c54cc93a-3d8e-4503-9179-d1041e55b775"
+                }
+            },
+            {
+                "entry": {
+                    "createdAt": "2022-01-24T00:38:54.982+0000",
+                    "isFolder": true,
+                    "isFile": false,
+                    "createdByUser": {
+                        "id": "admin",
+                        "displayName": "Administrator"
+                    },
+                    "modifiedAt": "2022-01-24T00:39:48.744+0000",
+                    "modifiedByUser": {
+                        "id": "admin",
+                        "displayName": "Administrator"
+                    },
+                    "name": "Jack M",
+                    "id": "c7824f05-6f84-489b-8af9-7c7995036f05",
+                    "nodeType": "grandCedarModel:resident",
+                    "parentId": "c54cc93a-3d8e-4503-9179-d1041e55b775"
+                }
+            },
+            {
+                "entry": {
+                    "createdAt": "2022-01-24T05:18:28.990+0000",
+                    "isFolder": true,
+                    "isFile": false,
+                    "createdByUser": {
+                        "id": "admin",
+                        "displayName": "Administrator"
+                    },
+                    "modifiedAt": "2022-01-24T05:19:06.891+0000",
+                    "modifiedByUser": {
+                        "id": "admin",
+                        "displayName": "Administrator"
+                    },
+                    "name": "Robbin",
+                    "id": "62c5e5fe-83c8-4aea-a7a6-96eaa888632a",
+                    "nodeType": "cm:folder",
+                    "parentId": "c54cc93a-3d8e-4503-9179-d1041e55b775"
+                }
+            }
+        ]
+    }
+}
